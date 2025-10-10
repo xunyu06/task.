@@ -5,7 +5,7 @@ import random
 import time
 
 # --- 战斗设定 (这些是预设好的值，不需要修改哦) ---
-NAGATO_MAX_HP = 60
+NAGATO_MAX_HP = 10
 NABIYA_MAX_HP = 100
 NAGATO_ATTACK_DICE = 4
 NAGATO_DEFEND_DICE = 3
